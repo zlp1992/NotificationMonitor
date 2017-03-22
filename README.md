@@ -1,0 +1,4 @@
+# NotificationMonitor
+获取Android手机通知栏通知，并保存到外部存储的文件中，注意需要在手机的辅助功能（无障碍）中将NotificationMonitor打开
+1.使用模拟器或者google手机nexus测试可以获取通知栏通知
+2.使用小米手机测试发现无法获取
